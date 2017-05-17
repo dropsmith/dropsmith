@@ -1,6 +1,6 @@
 {
   "name": "dropsmith",
-  "version": "0.0.x",
+  "version": "0.0.1",
   "description": "Drupal backed static site generation.",
   "main": "dropsmith.js",
   "repository": "https://github.com/dropsmith/dropsmith",
