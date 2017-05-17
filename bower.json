@@ -7,6 +7,7 @@
   ],
   "license": "GPL-2.0+",
   "homepage": "https://github.com/dropsmith/dropsmith",
+  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
