@@ -1,0 +1,17 @@
+{
+  "name": "dropsmith",
+  "description": "Drupal backed static site generation.",
+  "main": "dropsmith.js",
+  "authors": [
+    "Sierk"
+  ],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/dropsmith/dropsmith",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
